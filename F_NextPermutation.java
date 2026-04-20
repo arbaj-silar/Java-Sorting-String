@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.stream.IntStream;
-
 public class F_NextPermutation {
  
     public static void nextPermutation(int A[]) {
